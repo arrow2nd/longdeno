@@ -7,13 +7,13 @@ Looooooooooooooooooooooooooooooooooooooooooooooong deno
 ## Usage
 
 ```
-$ longcat -n 20
+$ longdeno -n 20
 ```
 
 ## Installation
 
 ```
-$ deno install --force https://github.com/arrow2nd/longdeno/raw/v1.0.0/cli.js
+$ deno install --force --name longdeno https://github.com/arrow2nd/longdeno/raw/v1.0.0/cli.js
 ```
 
 ## Deno Module
