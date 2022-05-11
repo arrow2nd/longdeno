@@ -29,9 +29,10 @@ $I   u¯u︶u
 
 /**
  * @param {number} length 首の長さ
+ * @returns denoくん
  */
 export function longdeno(length) {
-  let necks = [];
+  const necks = [];
 
   for (let i = 0; i < length; i++) {
     necks.push(" ".repeat(i) + neck);
