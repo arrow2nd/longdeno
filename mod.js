@@ -1,6 +1,6 @@
 //  ________________________________________________________________________
 // /                                                                        \
-// | This AA was created by @kawarimidoll. Thanks!!!!!                      |
+// | This AA was created by @kawarimidoll. Thanks!                          |
 // | LINK: https://github.com/kawarimidoll/deno-cli-tools/tree/main/denosay |
 // \                                                                        /
 //  ------------------------------------------------------------------------
@@ -28,8 +28,9 @@ $I   u¯u︶u
 `;
 
 /**
+ * Denoくんを生成
  * @param {number} length 首の長さ
- * @returns denoくん
+ * @returns looooooong deno
  */
 export function longdeno(length) {
   const necks = [];
