@@ -13,13 +13,13 @@ $ longdeno -n 20
 ## Installation
 
 ```
-$ deno install --force --name longdeno https://deno.land/x/longdeno/cli.js
+$ deno install --force --name longdeno https://deno.land/x/longdeno@v1.0.3/cli.js
 ```
 
 ## Deno Module
 
 ```js
-import { longdeno } from "https://deno.land/x/longdeno";
+import { longdeno } from "https://deno.land/x/longdeno@v1.0.3/mod.js";
 
 console.log(longdeno(20));
 ```
